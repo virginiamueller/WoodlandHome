@@ -152,9 +152,11 @@ h1 {
   border-color: transparent white transparent transparent;
   }
 
-  /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
-  left: 15px;
+  .left::after {
+  left: 28px;
+  }
+  .right::after {
+  left: 9px;
   }
   
   /* Make all right containers behave like the left ones */
