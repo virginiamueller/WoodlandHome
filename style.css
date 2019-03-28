@@ -1,5 +1,6 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Rochester');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 * {
   box-sizing: border-box;
 }
@@ -22,7 +23,7 @@ h1 {
   text-shadow: 4px 3px black;
   font-size: 4.5rem;
   font-weight: 400;
-  /*font-family: 'Rochester', cursive;*/
+  font-family: 'Rochester', cursive;
 
 }
 
